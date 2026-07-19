@@ -1,0 +1,12 @@
+{
+    "python.defaultInterpreterPath": "/Users/siyammeshak/Downloads/Intel-Image-Classification/.venv/bin/python",
+    "python.pythonPath": "/Users/siyammeshak/Downloads/Intel-Image-Classification/.venv/bin/python",
+    "pyrefly.pythonInterpreter": "/Users/siyammeshak/Downloads/Intel-Image-Classification/.venv/bin/python",
+    "python.analysis.extraPaths": [
+        "/Users/siyammeshak/Downloads/Intel-Image-Classification"
+    ],
+    "python.analysis.venvPath": "/Users/siyammeshak/Downloads/Intel-Image-Classification",
+    "python.analysis.venv": ".venv",
+    "python.analysis.pythonPath": "/Users/siyammeshak/Downloads/Intel-Image-Classification/.venv/bin/python",
+    "python.interpreter.infoVisibility": "always"
+}

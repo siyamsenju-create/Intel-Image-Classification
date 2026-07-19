@@ -1,0 +1,13 @@
+{
+  "venvPath": "/Users/siyammeshak/Downloads/Intel-Image-Classification",
+  "venv": ".venv",
+  "pythonVersion": "3.11",
+  "pythonPlatform": "Darwin",
+  "include": [
+    "src",
+    "app.py"
+  ],
+  "extraPaths": [
+    "/Users/siyammeshak/Downloads/Intel-Image-Classification"
+  ]
+}

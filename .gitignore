@@ -3,3 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 models/
+data/
+.DS_Store
+temp_prediction_image.jpg
+results/training_history.json
